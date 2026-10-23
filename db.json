@@ -1,0 +1,70 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "sname": "Arjun Kumar",
+      "sid": "ST101",
+      "semail": "arjun@example.com",
+      "dept": "Computer Science",
+      "year": "Year 3",
+      "teachSkill": "Java",
+      "learnSkill": "React",
+      "phNo": "",
+      "sharePhone": false,
+      "bio": "Passionate about coding and eager to learn new technologies."
+    },
+    {
+      "id": "2",
+      "sname": "Priya Sharma",
+      "sid": "ST102",
+      "semail": "priya@example.com",
+      "dept": "Information Technology",
+      "year": "Year 2",
+      "teachSkill": "UI Design",
+      "learnSkill": "Java",
+      "phNo": "",
+      "sharePhone": false,
+      "bio": "Interested in designing beautiful applications."
+    },
+    {
+      "id": "3",
+      "sname": "Rahul Singh",
+      "sid": "ST103",
+      "semail": "rahul@example.com",
+      "dept": "Electronics and Communication",
+      "year": "Year 3",
+      "teachSkill": "Python",
+      "learnSkill": "Web Development",
+      "phNo": "",
+      "sharePhone": false,
+      "bio": "Enjoys programming and exploring new technologies."
+    },
+    {
+      "id": "4",
+      "sname": "Sneha Patel",
+      "sid": "ST104",
+      "semail": "sneha@example.com",
+      "dept": "Mechanical Engineering",
+      "year": "Year 2",
+      "teachSkill": "C++",
+      "learnSkill": "UI/UX Design",
+      "phNo": "",
+      "sharePhone": false,
+      "bio": "Wants to learn creative skills and share technical knowledge."
+    },
+    {
+      "sname": "Valliammai",
+      "sid": "105",
+      "semail": "valli@123gmail.com",
+      "dept": "Computer Science",
+      "year": "Year 2",
+      "teachSkill": "java",
+      "learnSkill": "Python",
+      "phNo": "987654321",
+      "sharePhone": true,
+      "bio": "",
+      "id": "ZxLMZxpahfo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
